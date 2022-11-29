@@ -35,7 +35,8 @@ I usually write articles to record and share them with those who are also studyi
 [![Javascript](https://img.shields.io/badge/-Javascript-%23363636.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-%23363636.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
 [![Node.js](https://img.shields.io/badge/-Nodejs-%23363636.svg?style=for-the-badge&logo=node.js&logoColor=339933)](#)
-
+[![Java](https://img.shields.io/badge/-Java-%23363636.svg?style=for-the-badge)](#)
+[![Perl](https://img.shields.io/badge/-Perl-%23363636.svg?style=for-the-badge)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuHongWeiWei&hide=jupyter%20notebook,html,css&layout=compact&theme=gotham)](https://github.com/MuHongWeiWei)
 
@@ -44,3 +45,32 @@ I usually write articles to record and share them with those who are also studyi
 - :email: tony91097@gmail.com
 
 ## Recent Projects 🚀
+### Android
+
+<img src="https://user-images.githubusercontent.com/39545122/204492615-b79087b3-84b7-4370-9a40-088d941d14b4.png" alt="drawing" width="75"/>
+
+#### [水庫水位 : 水量即時通](https://play.google.com/store/apps/details?id=com.fly.waterpass)
+
+---
+
+### Solidity
+
+<img src="https://user-images.githubusercontent.com/39545122/204493193-b5c60c0f-d613-4309-b9a6-3a3406c6e840.png" alt="RedCat" width="75"/>
+
+#### [RedCat](https://redcatclub.com/)
+
+<img src="https://user-images.githubusercontent.com/39545122/204494044-1bcfe276-0a22-4056-a97a-522719a4d72e.png" alt="Cryptostal" width="75"/>
+
+#### [Cryptostal](https://crpytostal.redcatclub.com/)
+
+
+---
+
+### Perl
+
+<img src="https://user-images.githubusercontent.com/39545122/204494209-c3eba1c3-2bd0-47f1-9da1-2e16dff6cf6e.png" alt="無限冒險 | RPG多人線上遊戲" width="75"/>
+
+#### [無限冒險 | RPG多人線上遊戲](https://badgameshow.com)
+
+
+
