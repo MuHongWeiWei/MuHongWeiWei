@@ -12,7 +12,7 @@ I usually write articles to record and share them with those who are also studyi
 
 #### Check Out My [Personal Site](https://shiva-blockchain-portfolio.netlify.app/)
 
-## Blog ⚓
+## Blog 📓
 #### [Solidiy Program Notes](https://badgameshow.com/wade) <br>
 #### [Android Program Notes](https://badgameshow.com/fly) 
 
