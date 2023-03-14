@@ -1,6 +1,6 @@
 
 
-# Hey! I'm [Wade](https://badgameshow.com/wade/)👋
+# Hey! I'm [Wade](https://wade.jiajun.website/)👋
 
 At present, I have been studying and researching technology and constantly improving myself.
 
