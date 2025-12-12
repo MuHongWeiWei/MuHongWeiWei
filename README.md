@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Personal Site
-👉 <a href="https://shiva-blockchain-portfolio.netlify.app/">Check Out My Portfolio</a>
+👉 <a href="https://wade.jiajun.website/">Check Out My Portfolio</a>
 
 ---
 
