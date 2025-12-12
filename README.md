@@ -72,5 +72,9 @@ I usually write articles to record and share them with those who are also studyi
 
 #### [無限冒險 | RPG多人線上遊戲](https://badgameshow.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuHongWeiWei/MuHongWeiWei/output/snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuHongWeiWei/MuHongWeiWei/output/snake.svg">
+</picture>
 
 
