@@ -22,13 +22,13 @@
 
 ---
 
-# 🎥 YouTube Channels
+## 🎥 YouTube Channels
 
-| Channel | Views |
-|--------|-------|
-| 🔥 火箭迷因狗 | ![YouTube Views](https://img.shields.io/youtube/channel/views/UCfxm9z_7aGMib6ThvDJFKrw) |
-| 🛠 小礦工 Wade | ![YouTube Views](https://img.shields.io/youtube/channel/views/UCgpWW0r3rhTOroqNWtlwxeQ) |
-| ⛏ 小礦工挖挖礦 | ![YouTube Views](https://img.shields.io/youtube/channel/views/UCewQ4uj-GEn-wv5WsnBKeyg) |
+| 頻道 | 觀看次數 |
+|------|----------|
+| 🔥 [火箭迷因狗](https://www.youtube.com/channel/UCfxm9z_7aGMib6ThvDJFKrw) | ![](https://img.shields.io/youtube/channel/views/UCfxm9z_7aGMib6ThvDJFKrw) |
+| 🛠 [小礦工 Wade](https://www.youtube.com/channel/UCgpWW0r3rhTOroqNWtlwxeQ) | ![](https://img.shields.io/youtube/channel/views/UCgpWW0r3rhTOroqNWtlwxeQ) |
+| ⛏ [小礦工挖挖礦](https://www.youtube.com/channel/UCewQ4uj-GEn-wv5WsnBKeyg) | ![](https://img.shields.io/youtube/channel/views/UCewQ4uj-GEn-wv5WsnBKeyg) |
 
 ---
 
