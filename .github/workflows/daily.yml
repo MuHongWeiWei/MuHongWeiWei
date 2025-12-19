@@ -5,13 +5,16 @@ on:
     - cron: "0 0 * * *"   # 每天 UTC 00:00 執行（台灣時間早上 8 點）
   workflow_dispatch:       # 手動觸發
 
+permissions:
+  contents: write
+  
 jobs:
   run:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Update daily timestamp
         run: |
@@ -19,12 +22,11 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "github-actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add daily.txt
           git commit -m "Daily automated update" || echo "No changes to commit"
 
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push
